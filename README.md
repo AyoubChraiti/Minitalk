@@ -22,6 +22,8 @@ Minitalk is designed to run on UNIX-like operating systems. It requires a C comp
 
 ```sh
 git clone https://github.com/yourusername/minitalk.git
+```
+```sh
 cd minitalk
 ```
 
@@ -45,12 +47,13 @@ Run the server program:
 ```sh
 bash```
 ./server
+```
 Upon starting, the server will display its PID (Process ID). This PID is used by the client to send messages to the server.
 
 - Send a message from the client
 
 - In a new terminal window, use the client program to send a message to the server using its PID:
-
+```sh
 ./client <Server_PID> "Your message here"
 
 ```
