@@ -45,7 +45,6 @@ Start the server
 Run the server program:
 
 ```sh
-bash```
 ./server
 ```
 Upon starting, the server will display its PID (Process ID). This PID is used by the client to send messages to the server.
