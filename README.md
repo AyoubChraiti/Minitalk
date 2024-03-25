@@ -19,7 +19,7 @@ Minitalk is designed to run on UNIX-like operating systems. It requires a C comp
 - Start by cloning the Minitalk repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/minitalk.git
+git clone https://github.com/AyoubChraiti/minitalk.git
 ```
 ```sh
 cd minitalk
