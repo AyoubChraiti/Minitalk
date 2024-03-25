@@ -2,10 +2,9 @@
 
 ## Minitalk is a small data exchange program using UNIX signals.
 
-##### Minitalk is a small data exchange program using UNIX signals. This project aims to create a communication system between a server and a client, where messages can be sent through the server using UNIX signals. It's a minimalist, effective, and efficient way to understand inter-process communication.
++ Minitalk is a small data exchange program using UNIX signals. This project aims to create a communication system between a server and a client, where messages can be sent through the server using UNIX signals. It's a minimalist, effective, and efficient way to understand inter-process communication.
 
 ## Features
-- Bi-directional communication: Allows messages to be sent back and forth between a client and a server.
 - Signal-based messaging: Utilizes UNIX signals (SIGUSR1 and SIGUSR2) to transmit information.
 - Minimalist design: Focuses on core functionalities to ensure simplicity and efficiency.
 - Error handling: Implements basic error handling to manage signal interruptions or miscommunications.
